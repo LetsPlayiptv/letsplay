@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
+<!-- <p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
 
 <hr>
 
@@ -13,3 +13,4 @@
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+ -->
